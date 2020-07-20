@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **the1812/the1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=the1812&hide=["issues"]&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
