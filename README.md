@@ -13,5 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?bg_color=0000&title_color=4C71F1&text_color=8A919F&line_height=24&border_color=8884&username=the1812&hide=contribs&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bg_color=0000&title_color=4C71F1&text_color=8A919F&card_width=240&border_color=8884&username=the1812&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+Languages
+
+ [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=%23fff)](https://www.typescriptlang.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=%23fff)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=%23fff)](https://kotlinlang.org/)
+
+Frameworks
+
+[![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=%23fff)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/React-087ea4?logo=react&logoColor=%23fff)](https://react.dev/)
+[![WPF](https://img.shields.io/badge/WPF-0078D6?logo=windows&logoColor=%23fff)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/?view=netframeworkdesktop-4.8)
+
+OS
+
+[![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=%23fff)](https://www.microsoft.com/software-download/windows10)
+
+Stats
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?bg_color=30,667eea,764ba2&icon_color=fff&title_color=fff&text_color=fff&line_height=24&username=the1812&hide=contribs&show_icons=true&count_private=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
