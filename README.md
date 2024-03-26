@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 <a href="https://github.com/the1812/github-readme-stats">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=the1812&theme=nord&hide=contribs&show_icons=true&count_private=true&rank_icon=percentile&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=the1812&theme=nord&hide=contribs&show_icons=true&count_private=true&rank_icon=percentile&hide_border=true&card_width=350"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=the1812&theme=graywhite&hide=contribs&show_icons=true&count_private=true&rank_icon=percentile&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=the1812&theme=graywhite&hide=contribs&show_icons=true&count_private=true&rank_icon=percentile&hide_border=true&card_width=350"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=the1812&theme=graywhite&hide=contribs&show_icons=true&count_private=true&rank_icon=percentile&hide_border=true" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=the1812&theme=graywhite&hide=contribs&show_icons=true&count_private=true&rank_icon=percentile&hide_border=true&card_width=350" />
   </picture>
 </a>
 
