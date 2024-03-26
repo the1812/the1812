@@ -13,24 +13,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<span>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?bg_color=30,667eea,764ba2&icon_color=fff&title_color=fff&text_color=fff&line_height=24&username=the1812&hide=contribs&show_icons=true&count_private=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/the1812/github-readme-stats">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=the1812&theme=nord&hide=contribs&show_icons=true&count_private=true&rank_icon=percentile&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=the1812&theme=graywhite&hide=contribs&show_icons=true&count_private=true&rank_icon=percentile&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=the1812&theme=graywhite&hide=contribs&show_icons=true&count_private=true&rank_icon=percentile&hide_border=true" />
+  </picture>
+</a>
 
-Languages
+![Languages](https://img.shields.io/badge/Languages-grey?style=for-the-badge)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=%23fff)](https://www.typescriptlang.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=%23fff)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=%23fff)](https://kotlinlang.org/)
 
- [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=%23fff)](https://www.typescriptlang.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=%23fff)](https://dotnet.microsoft.com/en-us/languages/csharp)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=%23fff)](https://kotlinlang.org/)
+![Frameworks](https://img.shields.io/badge/Frameworks-grey?style=for-the-badge)
+[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=%23fff)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/React-087ea4?style=for-the-badge&logo=react&logoColor=%23fff)](https://react.dev/)
+[![WPF](https://img.shields.io/badge/WPF-0078D6?style=for-the-badge&logo=windowsxp&logoColor=%23fff)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/?view=netframeworkdesktop-4.8)
 
-Frameworks
+![OS](https://img.shields.io/badge/OS-grey?style=for-the-badge)
+[![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows10&logoColor=%23fff)](https://www.microsoft.com/software-download/windows10)
 
-[![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=%23fff)](https://vuejs.org/)
-[![React](https://img.shields.io/badge/React-087ea4?logo=react&logoColor=%23fff)](https://react.dev/)
-[![WPF](https://img.shields.io/badge/WPF-0078D6?logo=windows&logoColor=%23fff)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/?view=netframeworkdesktop-4.8)
-
-OS
-
-[![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=%23fff)](https://www.microsoft.com/software-download/windows10)
-
-</div>
+</span>
